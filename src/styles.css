@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Athiti');
 
 body, html {
-  font-family: 'Athiti', sans-serif;
+  font-family: 'Athiti', sans-serif !important;
 }
